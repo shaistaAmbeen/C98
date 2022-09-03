@@ -1,0 +1,51 @@
+.copy_right_footer {
+position: fixed;
+bottom: 0; 
+width: 100%;
+text-align: center;
+}
+
+img:hover{
+border-radius: 90px;
+}
+
+body {
+    background-color :lightgray;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: inherit;
+}
+
+h4{
+    color: crimson;
+    text-decoration: wavy;
+}
+
+img{
+    border-color:black;
+    border-style:inherit;
+    border-radius: 3%;
+    box-shadow: 0 10px 10px 0 rgba(2, 2, 0.2);  
+}
+
+
+#footer{
+    color: black;
+    font-weight: bold;
+}
+
+#camera {
+    height: 400px;
+    width: 500px;
+    border-radius: 5%;
+    border-color: black;
+    border-style:solid;
+}
+.column
+{
+    display: inline;
+    padding: 10px;
+}
